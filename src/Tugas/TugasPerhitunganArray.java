@@ -1,4 +1,4 @@
-package array;
+package Tugas;
 
 public class TugasPerhitunganArray {
     public static void main(String[] args) {
