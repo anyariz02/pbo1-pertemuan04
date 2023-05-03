@@ -8,7 +8,8 @@ public class TugasPerulangan {
 
         for (x = 1; x<21; x++) {
 
-            System.out.println("Perkalian " + x + " x 5" + " = " + x*5 );
+            System.out.println("Perkalian "+ x + " x 5" + " = " + x*5);
+
 
         }
     }
