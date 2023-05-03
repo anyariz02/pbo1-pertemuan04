@@ -18,6 +18,5 @@ public class TugasPerhitunganArray {
     Total = (Buah[0] * 2 + Buah[2] + Buah[3]) * diskon[1] ;
 
     System.out.println("Total Belanja Pembeli adalah "+Total);
-
     }
 }
