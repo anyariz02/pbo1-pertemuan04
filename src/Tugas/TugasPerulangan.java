@@ -1,4 +1,4 @@
-package loops;
+package Tugas;
 
 public class TugasPerulangan {
     public static void main(String[] args) {
