@@ -1,4 +1,4 @@
-package Tugas;
+package tugas;
 
 public class TugasPerulangan {
     public static void main(String[] args) {
